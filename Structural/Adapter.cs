@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CommonDesignPatterns
+namespace CommonDesignPatterns.Structural
 {
     internal class Adapter
     {

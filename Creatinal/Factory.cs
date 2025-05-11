@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CommonDesignPatterns
+namespace CommonDesignPatterns.Creatinal
 {
     internal class FactoryPattern
     {
