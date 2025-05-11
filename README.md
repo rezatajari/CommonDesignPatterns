@@ -22,7 +22,7 @@ Ideal for:
 | ✅ Singleton       | Creational   | Completed   | Ensures only one instance of a class exists globally |
 | ✅ Factory         | Creational   | Completed   | Creates objects without specifying the exact class |
 | ✅ Strategy        | Behavioral   | Completed   | Selects algorithm behavior at runtime |
-| ✅ Mediator        | Behavioral   | In Progress | Facilitates communication between objects to reduce dependencies |
+| ✅ Mediator        | Behavioral   | Completed | Facilitates communication between objects to reduce dependencies |
 | ✅ Adapter         | Structural   | Completed   | Converts incompatible interfaces so they can work together |
 
 ---
