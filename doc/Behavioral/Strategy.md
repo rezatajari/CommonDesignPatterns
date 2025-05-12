@@ -1,4 +1,4 @@
-﻿## Strategy Design Pattern – Payment Method Example (C#)
+﻿## Strategy Design Pattern
 
 ### Summary
 

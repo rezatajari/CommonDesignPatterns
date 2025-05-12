@@ -1,4 +1,4 @@
-﻿# Adapter Pattern – Real-World Concept: Media Player
+﻿# Adapter Design Pattern
 
 ## What Is the Adapter Pattern?
 

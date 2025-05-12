@@ -1,4 +1,4 @@
-﻿# Bridge Design Pattern - Remote Control and Devices
+﻿# Bridge Design Pattern
 
 ## What Is This?
 

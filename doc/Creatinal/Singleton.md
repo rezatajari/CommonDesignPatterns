@@ -1,4 +1,4 @@
-﻿# Singleton Pattern Explained Through PrinterSpooler
+﻿# Singleton Design Pattern
 
 ## Core Concept of Singleton
 The Singleton pattern ensures:

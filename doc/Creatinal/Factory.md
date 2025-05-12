@@ -1,4 +1,4 @@
-﻿# Factory Method Pattern – Document Editor Example
+﻿# Factory Method Pattern
 
 This example demonstrates the **Factory Method Design Pattern** using a document editor that supports creating different types of documents (Word and Excel).
 
