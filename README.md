@@ -22,8 +22,9 @@ Ideal for:
 | ✅ Singleton       | Creational   | Completed   | Ensures only one instance of a class exists globally |
 | ✅ Factory         | Creational   | Completed   | Creates objects without specifying the exact class |
 | ✅ Strategy        | Behavioral   | Completed   | Selects algorithm behavior at runtime |
-| ✅ Mediator        | Behavioral   | Completed | Facilitates communication between objects to reduce dependencies |
+| ✅ Mediator        | Behavioral   | Completed   | Facilitates communication between objects to reduce dependencies |
 | ✅ Adapter         | Structural   | Completed   | Converts incompatible interfaces so they can work together |
+| ✅ Bridge          | Structural   | Completed   | Decouples abstraction from implementation to allow independent variation |
 
 ---
 
@@ -36,6 +37,7 @@ Ideal for:
 | Strategy          | [Read Strategy Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Behavioral/Strategy.md) |
 | Mediator          | [Read Mediator Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Behavioral/Mediator.md) |
 | Adapter           | [Read Adapter Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Structural/Adapter.md)   |
+| Bridge            | [Read Bridge Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Structural/Bridge.md)     |
 
 ---
 
