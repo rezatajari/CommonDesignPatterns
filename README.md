@@ -17,27 +17,14 @@ Ideal for:
 
 ##  Implemented Patterns
 
-| Pattern Name     | Category     | Status      | Description |
-|------------------|--------------|-------------|-------------|
-| ✅ Singleton       | Creational   | Completed   | Ensures only one instance of a class exists globally |
-| ✅ Factory         | Creational   | Completed   | Creates objects without specifying the exact class |
-| ✅ Strategy        | Behavioral   | Completed   | Selects algorithm behavior at runtime |
-| ✅ Mediator        | Behavioral   | Completed   | Facilitates communication between objects to reduce dependencies |
-| ✅ Adapter         | Structural   | Completed   | Converts incompatible interfaces so they can work together |
-| ✅ Bridge          | Structural   | Completed   | Decouples abstraction from implementation to allow independent variation |
-
----
-
-## Pattern Documentation
-
-| Pattern           | Link to Doc                                                                 |
-|-------------------|------------------------------------------------------------------------------|
-| Singleton         | [Read Singleton Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Creatinal/Singleton.md) |
-| Factory           | [Read Factory Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Creatinal/Factory.md)   |
-| Strategy          | [Read Strategy Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Behavioral/Strategy.md) |
-| Mediator          | [Read Mediator Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Behavioral/Mediator.md) |
-| Adapter           | [Read Adapter Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Structural/Adapter.md)   |
-| Bridge            | [Read Bridge Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Structural/Bridge.md)     |
+| Pattern Name     | Category     | Status      | Description | Link to Doc |
+|------------------|--------------|-------------|-------------|-------------|
+| ✅ Singleton       | Creational   | Completed   | Ensures only one instance of a class exists globally | [Read Singleton Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Creatinal/Singleton.md) |
+| ✅ Factory         | Creational   | Completed   | Creates objects without specifying the exact class | [Read Factory Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Creatinal/Factory.md) | 
+| ✅ Strategy        | Behavioral   | Completed   | Selects algorithm behavior at runtime | [Read Strategy Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Behavioral/Strategy.md) |
+| ✅ Mediator        | Behavioral   | Completed   | Facilitates communication between objects to reduce dependencies | [Read Mediator Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Behavioral/Mediator.md) |
+| ✅ Adapter         | Structural   | Completed   | Converts incompatible interfaces so they can work together | [Read Adapter Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Structural/Adapter.md)   |
+| ✅ Bridge          | Structural   | Completed   | Decouples abstraction from implementation to allow independent variation | [Read Bridge Documentation](https://github.com/rezatajari/CommonDesignPatterns/blob/master/doc/Structural/Bridge.md)     |
 
 ---
 
